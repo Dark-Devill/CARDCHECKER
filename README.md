@@ -9,7 +9,7 @@ you can get free cc information from hear
 # installation
 
 ``` 
-cd cardershub
+cd CARDCHECKER
 ls
 bash Card.sh
 

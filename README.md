@@ -1,6 +1,6 @@
 # CARDCHECKER
 you can get free cc information from hear
-## coded by Dark  Devil (Anson Benny)
+## coded by CYBER ATTACK
 ## do not try carding
 
 ### iam not ensuring the CC are alive or have balance(maybe its dumbp)...if your luck you will get your benefit
